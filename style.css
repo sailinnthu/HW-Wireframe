@@ -8,6 +8,7 @@ body {
     background-color: #dcdcdc;
     text-align: center;
     padding: 30px;
+    color: #777;
 }
 
 .nav{
@@ -17,6 +18,7 @@ body {
     background-color: #dcdcdc;
     text-align: center;
     padding: 30px;
+    color: #777;
 }
 
 .section{
@@ -28,6 +30,7 @@ body {
     padding: 30px;
     margin-bottom: 15px;
     width: 35%;
+    color: #777;
 }
 
 .article{
@@ -35,19 +38,20 @@ body {
     background-color: #696969;
     text-align: center;
     padding: 30px;
+    color: white;
 }
 .h{
     margin-bottom: 5px;
     background-color: #dcdcdc;
     height: 20px;
-    
+    color: #777;
     text-align: center;
     padding: 30px;
 }
 .p{
     background-color: #dcdcdc;
     height: 20px;
-    
+    color: #777;
     text-align: center;
     padding: 30px;
 }
@@ -59,6 +63,7 @@ body {
     height: 271px;
     text-align: center;
     padding: 30px;
+    color: #777;
 }
 
 .footer{
@@ -68,4 +73,5 @@ body {
     background-color: #dcdcdc;
     text-align: center;
     padding: 30px;
+    color: #777;
 }
